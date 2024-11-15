@@ -1,1 +1,1 @@
-isim:lisans
+isim:lisans:exptime:premium
